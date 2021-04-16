@@ -1,0 +1,36 @@
+/* Extra small devices (phones, 600px and down) */
+
+@media only screen and (max-width: 600px) {
+    .contact .li_wrap,
+    .contact .li_wrap .icon,
+    .hobbies ul,
+    .skills .li_wrap,
+    .hobbies .li_wrap,
+    .right_inner .li_wrap,
+    .title,
+    .name,
+    .about {
+        display: block;
+    }
+    
+}
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+
+@media only screen and (min-width: 600px) {}
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+
+@media only screen and (min-width: 768px) {}
+
+
+/* Large devices (laptops/desktops, 992px and up) */
+
+@media only screen and (min-width: 992px) {}
+
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+
+@media only screen and (min-width: 1200px) {}
